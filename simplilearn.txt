@@ -1,0 +1,10 @@
+I am new to DevOps.
+
+
+
+
+
+
+
+
+cat < simplilearn.txt
